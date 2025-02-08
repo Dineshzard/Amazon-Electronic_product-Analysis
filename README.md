@@ -62,8 +62,8 @@ The dataset was collected from **Amazon** using web scraping techniques. It incl
 
 ## 🔗 Links
 
-- 📂 **Google Drive Folder:** [https://drive.google.com/drive/folders/12WYA9WHxVSp_pTnMHkePVA0d8WovpA5l?usp=sharing](#) (Contains data, SQL, Power BI files)
-- 💻 **GitHub Repository:** [Click Here](#) (Contains all code and resources)
+- 📂 **Google Drive Folder:** [Click Here](https://drive.google.com/drive/folders/12WYA9WHxVSp_pTnMHkePVA0d8WovpA5l?usp=sharing) (Contains data, SQL, Power BI files)
+- 💻 **GitHub Repository:** [Click Here](https://github.com/Dineshzard/Amazon-Electronic_product-Analysis) (Contains all code and resources)
 
 ---
 
