@@ -38,7 +38,7 @@ The dataset was collected from **Amazon** using web scraping techniques. It incl
 ### **3. Data Analysis & Visualization (Power BI)**
 
 - **Price vs. Discount Trends:** Identified how discount percentages vary across different categories.
-- **Best Value-for-Money Products:** Highlighted top products with high discounts and high ratings.
+- **Best Value-for-Money Products:** Highlighted top products with high discounts.
 - **Rating vs. Price Distribution:** Analyzed whether higher-priced products receive better ratings.
 - **Category-wise Comparisons:** Compared discounts and price ranges within different product categories.
 
@@ -54,6 +54,8 @@ The dataset was collected from **Amazon** using web scraping techniques. It incl
 ```
 📦 Amazon-Price-Discount-Analysis
 │-- 📂 Data/ (CSV files)
+│   ├── raw_product_data.csv (Original scraped data)
+│   ├── cleaned_product_data.csv (Processed and cleaned data)
 │-- 📂 Notebooks/ (Jupyter Notebooks)
 │-- 📂 SQL/ (Database and queries)
 │-- 📂 PowerBI/ (Power BI Dashboard .pbix file)
